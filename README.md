@@ -11,9 +11,12 @@ Dans le deuxième chapitre, un pré dimensionnement de la précontrainte des deu
 
 Pour le troisième chapitre, un calcul détaillé des pertes instantanées et différées que subissent les câbles moyens des deux familles est explicité. Ce calcul de perte a ensuite permis de redimensionner la précontrainte en calculant les nouvelles valeurs des tensions initiale et finales d’un toron T15S.
 
-Dans le quatrième chapitre, la vérification de la section médiane en phase d’exploitation est présentée sous sous combinaisons :
-— Quasi-permantes
-— Fréquentes
-— Rares
+Dans le quatrième chapitre, la vérification de la section médiane en phase d’exploitation est présentée sous sous combinaisons : 
+
+      — Quasi-permantes
+  
+      — Fréquentes
+  
+      — Rares
 
 Et concernat le dernier chapitre on va Vérifier la section la plus sollicitée d’une poutre principale vis-à-vis de la flexion à l’ELU en phase d’exploitation.
